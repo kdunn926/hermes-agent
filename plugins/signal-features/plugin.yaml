@@ -1,0 +1,5 @@
+name: signal-features
+version: 0.1.0
+description: "Signal adapter enhancements: message editing (edit_message) and progress-message cleanup (ephemeral delete)"
+author: Kyle Dunn
+provides_hooks: []
